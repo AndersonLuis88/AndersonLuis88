@@ -1,10 +1,12 @@
 
 ## &nbsp;Olá! 🖐️
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<div>
 <p align="center">
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLuis88&theme=github_dark&hide_border=true"  width="64%" alt="AndersonLuis"/></a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
+</div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Analytics
 <p align="center">
@@ -50,3 +52,4 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonluis88/)
 
 [![Code Music](https://open.spotifycdn.com/cdn/images/favicon.5cb2bd30.ico)](https://open.spotify.com/playlist/4fxA2EQMXe1HocNNb6Tkep)
+
