@@ -3,7 +3,7 @@
 
 <div>
 <p align="center">
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLuis88&theme=github_dark&hide_border=true"  width="64%" alt="AndersonLuis"/></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLuis88&theme=github_dark&hide_border=true"  width="50%" alt="AndersonLuis"/></a>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
 </div>
